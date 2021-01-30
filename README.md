@@ -1,2 +1,21 @@
 # Livemusic
-China live music data collection code and data
+基于秀动网的中国现场音乐数据爬取代码与数据共享
+
+## 数据来源
+https://www.showstart.com
+
+## 数据分享内容
+按月份整理全国现场音乐演出的数据，数据字段包括：
+- 乐队名称
+- 乐队城市
+- 乐队风格
+- 演出名称
+- 演出时间
+- 演出场所
+- lng
+- lat
+- 演出类型
+- 价格
+- 厂牌
+- 链接
+- url
